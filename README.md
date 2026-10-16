@@ -126,19 +126,19 @@ Provides high-level KPIs, monthly sales trends, category performance, profit ana
 
 Explores customer counts, repeat and one-time customers, demographics, state distribution, and acquisition channels.
 
-
+![Customer and Retention Dashboard](./screenshots/customer-retention.png)
 
 ### 3. Returns & Product Analysis
 
 Examines return records, returned units, return reasons, category-level returns, and product sales and profitability.
 
-
+![Returns and Product Analysis Dashboard](./screenshots/returns-product-analysis.png)
 
 ### 4. A/B Testing & Growth
 
 Compares experiment sessions and conversion rates across variants and presents conversion uplift and shopping activity.
 
-
+![A/B Testing and Growth Dashboard](./screenshots/ab-testing-growth.png)
 
 ## Key Findings
 
