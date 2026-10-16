@@ -119,6 +119,7 @@ The report contains four analytical pages.
 ### 1. Executive Overview
 
 Provides high-level KPIs, monthly sales trends, category performance, profit analysis, and acquisition-channel insights.
+
 ![Executive Overview Dashboard](./screenshots/executive-overview.png)
 
 
