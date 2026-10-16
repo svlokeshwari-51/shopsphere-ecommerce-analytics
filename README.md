@@ -56,8 +56,6 @@ shopsphere-ecommerce-analytics/
     └── ab-testing-growth.png
 ```
 
-*Update the structure if any filename or folder differs from the actual repository. The raw data folder and Power BI file should be listed only if they are present in GitHub.*
-
 ## Dataset Overview
 
 The project uses nine related synthetic tables.
@@ -121,7 +119,7 @@ The report contains four analytical pages.
 ### 1. Executive Overview
 
 Provides high-level KPIs, monthly sales trends, category performance, profit analysis, and acquisition-channel insights.
-
+![Executive Overview Dashboard](./screenshots/executive-overview.png)
 
 
 ### 2. Customer & Retention
